@@ -3,3 +3,7 @@ This project converts the existing Lava RGB board into a fully functional and se
 Connection diagram:
 <img width="1095" height="588" alt="LAVA_RGB to PPU_LITE" src="https://github.com/user-attachments/assets/986653a5-c913-40b8-97a9-cacb0d49651b" />
 
+photo of the prototype:
+![IMG_4818](https://github.com/user-attachments/assets/8d4dce00-bec2-4c06-9e9d-852748fe3347)
+
+
