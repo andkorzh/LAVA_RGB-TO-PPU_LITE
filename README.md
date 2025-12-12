@@ -23,7 +23,8 @@ The board should be connected to the console using the contacts where the PPU wa
 
 resources used by the FPGA
 
-<img width="565" height="752" alt="Lava_ppu_res" src="https://github.com/user-attachments/assets/94d08307-3664-4ed7-aa24-990b8fdafd81" />
+<img width="575" height="748" alt="Lava_ppu_res" src="https://github.com/user-attachments/assets/2f53591c-9bca-496b-afcb-03c6c1239f8d" />
+
 
 Video on YouTube: https://www.youtube.com/watch?v=mdxmFLmyeGQ
 
