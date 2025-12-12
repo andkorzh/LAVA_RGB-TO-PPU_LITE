@@ -8,6 +8,7 @@ Connection diagram:
 
 ![LAVA_RGB to PPU_LITE](https://github.com/user-attachments/assets/ff29d20d-76f3-47ea-a786-a65b15078fc2)
 
+The green color on the diagram indicates the connection points to the console board.
 
 photo of the prototype:
 ![IMG_4843](https://github.com/user-attachments/assets/bc8f961f-735e-4d01-8591-6c2b00f9580f)
