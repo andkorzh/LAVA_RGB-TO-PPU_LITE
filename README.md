@@ -11,6 +11,12 @@ photo of the prototype:
 
 ![IMG_4822](https://github.com/user-attachments/assets/7c22a19f-ffef-465c-a6dc-4a099c446955)
 
+Be careful not to let the FPGA inputs come into contact with the 5-volt voltage from the console.
+The FPGA clock input, pin 43, should be connected to the console clock generator via a 100-ohm resistor.
+The CLK pad should only be connected to the CPU R/W.
+Pin 52 of the FPGA controls the U8 level shifter and is not connected to the CPU R/W pin.
+The board should be connected to the console using the contacts where the PPU was soldered; I've marked them in green. If a socket for the PPU and an adapter board were soldered in, they need to be removed and the adapter re-soldered to different pins.
+
 
 resources used by the FPGA
 
