@@ -9,6 +9,9 @@ Connection diagram:
 photo of the prototype:
 ![IMG_4818](https://github.com/user-attachments/assets/8d4dce00-bec2-4c06-9e9d-852748fe3347)
 
+![IMG_4822](https://github.com/user-attachments/assets/7c22a19f-ffef-465c-a6dc-4a099c446955)
+
+
 resources used by the FPGA
 
 <img width="565" height="752" alt="Lava_ppu_res" src="https://github.com/user-attachments/assets/94d08307-3664-4ed7-aa24-990b8fdafd81" />
