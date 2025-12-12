@@ -4,7 +4,9 @@ This project converts the existing Lava RGB board into a fully functional and se
 The project contains 2 palettes, switching is carried out by pin 21 of the FPGA.
 
 Connection diagram:
-<img width="1095" height="588" alt="LAVA_RGB to PPU_LITE" src="https://github.com/user-attachments/assets/986653a5-c913-40b8-97a9-cacb0d49651b" />
+
+![LAVA_RGB to PPU_LITE](https://github.com/user-attachments/assets/ff29d20d-76f3-47ea-a786-a65b15078fc2)
+
 
 photo of the prototype:
 ![IMG_4818](https://github.com/user-attachments/assets/8d4dce00-bec2-4c06-9e9d-852748fe3347)
