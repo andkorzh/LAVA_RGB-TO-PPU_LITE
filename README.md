@@ -4,8 +4,11 @@ This project converts the existing Lava RGB board into a fully functional and se
 The project contains 4 palettes. The palettes are switched by PALSEL0 pin 29 of the FPGA, and PALSEL1 by the "DATA" pad.
 
 00 - Composite Direct;
+
 01 - Nintendulator NTSC;
+
 10 - FBX Magnum;
+
 11 - Sony CXA;
 
 
