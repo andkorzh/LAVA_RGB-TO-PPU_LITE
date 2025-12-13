@@ -1,15 +1,23 @@
 LAVA_RGB-TO-PPU_LITE
 This project converts the existing Lava RGB board into a fully functional and self-contained FPGA PPU chip that doesn't require the original RP2С02 PPU chip. It requires removing the comparators from the board and soldering several jumpers to enable the local PPU bus.
 
-The project contains 4 palettes. The palettes are switched by PALSEL0 pin 29 of the FPGA, and PALSEL1 by the "DATA" pad.
+The project contains 8 palettes. The palettes are switched by PALSEL0 pin 29 of the FPGA, PALSEL1 by the "DATA" pad, and PALSEL2 pin 16 of the FPGA.
 
-00 - Composite Direct;
+000 - Composite Direct;
 
-01 - Nintendulator NTSC;
+001 - Nintendulator NTSC;
 
-10 - FBX Magnum;
+010 - FBX Magnum;
 
-11 - Sony CXA;
+011 - Sony CXA;
+
+100 - PC-10
+
+101 - Wavebeam
+
+110 - PAL
+
+111 - Kitrinx (USA)
 
 
 Regions are switched by pins 20 and 21 of the FPGA.
