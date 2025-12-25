@@ -49,6 +49,9 @@ resources used by the FPGA
 Video on YouTube: https://www.youtube.com/watch?v=mdxmFLmyeGQ
 
 Added additional composite output.
+
+<img width="3120" height="2560" alt="composit_DAC" src="https://github.com/user-attachments/assets/4777b933-6c25-49ea-99d3-5c21b80d1f31" />
+
 COMPOSIT[6:0]   24, 21, 20, 19, 18, 17, 16  pin FPGA 
 
 
