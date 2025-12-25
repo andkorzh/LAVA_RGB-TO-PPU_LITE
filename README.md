@@ -20,7 +20,7 @@ The project contains 8 palettes. Palette switching with a button. The button is 
 111 - Kitrinx (USA)
 
 
-Regions are switched by pins 20 and 21 of the FPGA.
+Regions are switched by pins 32 and 25 of the FPGA.
 
 Connection diagram:
 
@@ -47,6 +47,9 @@ resources used by the FPGA
 
 
 Video on YouTube: https://www.youtube.com/watch?v=mdxmFLmyeGQ
+
+Added additional composite output.
+COMPOSIT[6:0]   24, 21, 20, 19, 18, 17, 16  pin FPGA 
 
 
 
