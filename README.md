@@ -20,7 +20,7 @@ The project contains 8 palettes. Palette switching with a button. The button is 
 111 - Kitrinx (USA)
 
 
-Regions are switched by pins 32 and 25 of the FPGA.
+Regions are switched by pins 32 and 29 of the FPGA.
 
 Connection diagram:
 
