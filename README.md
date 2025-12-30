@@ -1,7 +1,7 @@
 LAVA_RGB-TO-PPU_LITE
 This project converts the existing Lava RGB board into a fully functional and self-contained FPGA PPU chip that doesn't require the original RP2С02 PPU chip. It requires removing the comparators from the board and soldering several jumpers to enable the local PPU bus.
 
-The project contains 8 palettes. Palette switching with a button. The button is connected to pin 29 of the FPGA.
+The project contains 8 palettes. Palette switching with a button. The button is connected to DATA pad.
 
 000 - Composite Direct;
 
@@ -24,7 +24,8 @@ Regions are switched by pins 32 and 29 of the FPGA.
 
 Connection diagram:
 
-![LAVA_RGB to PPU_LITE](https://github.com/user-attachments/assets/ff29d20d-76f3-47ea-a786-a65b15078fc2)
+<img width="1593" height="865" alt="LAVA_RGB to PPU_LITE" src="https://github.com/user-attachments/assets/6e0afe45-bb7b-4efa-941e-d0c566f020cd" />
+
 
 The green color on the diagram indicates the connection points to the console board.
 
